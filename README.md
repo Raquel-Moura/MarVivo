@@ -32,8 +32,17 @@ MarVivo facilita a organização e participação em eventos de limpeza costeira
 
 ## Links do Projeto
 - [Aplicativo Funcionando Online](https://www.figma.com/proto/J0k0SNk0GppdCCiLikEVSP/Global-Solution_Fiap?page-id=182%3A69&node-id=191-267&viewport=45%2C328%2C0.49&t=ImuOgyrVHX9hmUeX-1&scaling=scale-down&starting-point-node-id=182%3A70) - Link para o protótipo
-
+- [Deploy](https://mar-vivo.vercel.app/) -  Vercel
 
 
 ---
+**Equipe de Desenvolvimento**
 
+
+- Gabriela Carvalho Gonçalves
+
+
+- Marcelle Palermo
+
+
+- Raquel Cristina Soares Moura
